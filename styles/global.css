@@ -41,7 +41,7 @@
 }
 
 html {
-  font-family: var(--ff-san);
+  font-family: var(--ff-sans);
   font-weight: var(--fw-base);
   font-size: var(--fs-base);
   line-height: 1.6;
